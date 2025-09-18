@@ -48,4 +48,5 @@ jobs:
             ./firmware/.pio/build/leonardo/firmware.hex
             ./firmware/.pio/build/promicro16/firmware.hex
             ./firmware/.pio/build/esp32-c3-supermini/firmware.hex
+            ./firmware/.pio/build/esp32-s3-zero/firmware.hex
           retention-days: 7
